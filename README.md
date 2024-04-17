@@ -5,5 +5,7 @@
 - с конкатенацией входа и выхода LSTM
 - с постоянным learning rate = 1e-4
 - с AdaptiveMaxPooling по схеме на картинке:
+
 ![image](https://github.com/laptevaarina/credit_scoring/assets/45456174/42cc1645-dcc7-4140-9d1d-f267b59b477a)
+
 **Score:** 0.7663312161
